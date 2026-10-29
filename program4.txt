@@ -1,0 +1,8 @@
+Name:"Sameeksha"
+USN:"MT26AI025"
+Email:"acharyasameeksha563@gmail.com"
+mobile no:"7338053254"
+print("My name is"Name)
+print("My USN is",USN)
+print("My Email is",Email)
+print("My mobile no is",mobile no.)
