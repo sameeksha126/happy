@@ -1,0 +1,10 @@
+text = input("enter a string")
+sub = input("enter a sub string")
+old = input("enter a string")
+new = input("enter a new string")
+
+print(f"-------{text[0]}")
+print(f"--------{text[-1]}")
+print(f"--{text[0:3]}")
+print(f" {text[::2]}")
+print(f" {text[::-1]}")
